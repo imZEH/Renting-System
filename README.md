@@ -13,4 +13,4 @@ Dheo Gonzaga<br>
 Jules Brian Dela Cruz<br>
 
 
-Questions and comments email me at pi.neilr23@gmail.com.
+Questions and comments feel free to create an issue to this repository.
